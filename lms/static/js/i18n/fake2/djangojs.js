@@ -300,6 +300,7 @@
     "Body": "\u0243\u00f8d\u028e", 
     "Bold": "\u0243\u00f8ld", 
     "Bold (Ctrl+B)": "\u0243\u00f8ld (\u023b\u0287\u0279l+\u0243)", 
+    "Bookmark this page": "\u0243\u00f8\u00f8\u029e\u026f\u0250\u0279\u029e \u0287\u0265\u1d09s d\u0250\u0183\u01dd", 
     "Bookmarked": "\u0243\u00f8\u00f8\u029e\u026f\u0250\u0279\u029e\u01ddd", 
     "Bookmarked on": "\u0243\u00f8\u00f8\u029e\u026f\u0250\u0279\u029e\u01ddd \u00f8n", 
     "Border": "\u0243\u00f8\u0279d\u01dd\u0279", 
@@ -1457,6 +1458,7 @@
     "The course start date must be later than the enrollment start date.": "\u0166\u0265\u01dd \u0254\u00f8n\u0279s\u01dd s\u0287\u0250\u0279\u0287 d\u0250\u0287\u01dd \u026fns\u0287 b\u01dd l\u0250\u0287\u01dd\u0279 \u0287\u0265\u0250n \u0287\u0265\u01dd \u01ddn\u0279\u00f8ll\u026f\u01ddn\u0287 s\u0287\u0250\u0279\u0287 d\u0250\u0287\u01dd.", 
     "The data could not be saved.": "\u0166\u0265\u01dd d\u0250\u0287\u0250 \u0254\u00f8nld n\u00f8\u0287 b\u01dd s\u0250\u028c\u01ddd.", 
     "The email address you use to sign in. Communications from {platform_name} and your courses are sent to this address.": "\u0166\u0265\u01dd \u01dd\u026f\u0250\u1d09l \u0250dd\u0279\u01ddss \u028e\u00f8n ns\u01dd \u0287\u00f8 s\u1d09\u0183n \u1d09n. \u023b\u00f8\u026f\u026fnn\u1d09\u0254\u0250\u0287\u1d09\u00f8ns \u025f\u0279\u00f8\u026f {platform_name} \u0250nd \u028e\u00f8n\u0279 \u0254\u00f8n\u0279s\u01dds \u0250\u0279\u01dd s\u01ddn\u0287 \u0287\u00f8 \u0287\u0265\u1d09s \u0250dd\u0279\u01ddss.", 
+    "The email address you use to sign in. Communications from {platform_name} and your courses are sent to this address.  To change the email address, please contact {contact_email}.": "\u0166\u0265\u01dd \u01dd\u026f\u0250\u1d09l \u0250dd\u0279\u01ddss \u028e\u00f8n ns\u01dd \u0287\u00f8 s\u1d09\u0183n \u1d09n. \u023b\u00f8\u026f\u026fnn\u1d09\u0254\u0250\u0287\u1d09\u00f8ns \u025f\u0279\u00f8\u026f {platform_name} \u0250nd \u028e\u00f8n\u0279 \u0254\u00f8n\u0279s\u01dds \u0250\u0279\u01dd s\u01ddn\u0287 \u0287\u00f8 \u0287\u0265\u1d09s \u0250dd\u0279\u01ddss.  \u0166\u00f8 \u0254\u0265\u0250n\u0183\u01dd \u0287\u0265\u01dd \u01dd\u026f\u0250\u1d09l \u0250dd\u0279\u01ddss, dl\u01dd\u0250s\u01dd \u0254\u00f8n\u0287\u0250\u0254\u0287 {contact_email}.", 
     "The email address you've provided isn't formatted correctly.": "\u0166\u0265\u01dd \u01dd\u026f\u0250\u1d09l \u0250dd\u0279\u01ddss \u028e\u00f8n'\u028c\u01dd d\u0279\u00f8\u028c\u1d09d\u01ddd \u1d09sn'\u0287 \u025f\u00f8\u0279\u026f\u0250\u0287\u0287\u01ddd \u0254\u00f8\u0279\u0279\u01dd\u0254\u0287l\u028e.", 
     "The enrollment end date cannot be after the course end date.": "\u0166\u0265\u01dd \u01ddn\u0279\u00f8ll\u026f\u01ddn\u0287 \u01ddnd d\u0250\u0287\u01dd \u0254\u0250nn\u00f8\u0287 b\u01dd \u0250\u025f\u0287\u01dd\u0279 \u0287\u0265\u01dd \u0254\u00f8n\u0279s\u01dd \u01ddnd d\u0250\u0287\u01dd.", 
     "The enrollment start date cannot be after the enrollment end date.": "\u0166\u0265\u01dd \u01ddn\u0279\u00f8ll\u026f\u01ddn\u0287 s\u0287\u0250\u0279\u0287 d\u0250\u0287\u01dd \u0254\u0250nn\u00f8\u0287 b\u01dd \u0250\u025f\u0287\u01dd\u0279 \u0287\u0265\u01dd \u01ddn\u0279\u00f8ll\u026f\u01ddn\u0287 \u01ddnd d\u0250\u0287\u01dd.", 
@@ -2029,6 +2031,10 @@
     "{screen_reader_start}Warning:{screen_reader_end} The previously selected content group was deleted. Select another content group.": "{screen_reader_start}W\u0250\u0279n\u1d09n\u0183:{screen_reader_end} \u0166\u0265\u01dd d\u0279\u01dd\u028c\u1d09\u00f8nsl\u028e s\u01ddl\u01dd\u0254\u0287\u01ddd \u0254\u00f8n\u0287\u01ddn\u0287 \u0183\u0279\u00f8nd \u028d\u0250s d\u01ddl\u01dd\u0287\u01ddd. S\u01ddl\u01dd\u0254\u0287 \u0250n\u00f8\u0287\u0265\u01dd\u0279 \u0254\u00f8n\u0287\u01ddn\u0287 \u0183\u0279\u00f8nd.", 
     "{start_strong}{total}{end_strong} words submitted in total.": "{start_strong}{total}{end_strong} \u028d\u00f8\u0279ds snb\u026f\u1d09\u0287\u0287\u01ddd \u1d09n \u0287\u00f8\u0287\u0250l.", 
     "{totalItems} total": "{totalItems} \u0287\u00f8\u0287\u0250l", 
+    "{total_results} result": [
+      "{total_results} \u0279\u01ddsnl\u0287", 
+      "{total_results} \u0279\u01ddsnl\u0287s"
+    ], 
     "{type} Progress": "{type} \u2c63\u0279\u00f8\u0183\u0279\u01ddss", 
     "{unread_comments_count} new": "{unread_comments_count} n\u01dd\u028d", 
     "\u2026": "\u2026"
