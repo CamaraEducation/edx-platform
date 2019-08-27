@@ -976,6 +976,7 @@ LANGUAGES = (
     ('sr', u'Српски'),  # Serbian
     ('sv', u'svenska'),  # Swedish
     ('sw', u'Kiswahili'),  # Swahili
+    ('sw-ke', u'Kiswahili'),  # Swahili Kenya
     ('ta', u'தமிழ்'),  # Tamil
     ('te', u'తెలుగు'),  # Telugu
     ('th', u'ไทย'),  # Thai
@@ -2277,7 +2278,7 @@ MKTG_URL_LINK_MAP = {
     'COURSES': 'courses',
     'ROOT': 'root',
     'TOS': 'tos',
-    'HONOR': 'honor',  # If your site does not have an honor code, simply delete this line.
+    # 'HONOR': 'honor',  # If your site does not have an honor code, simply delete this line.
     'PRIVACY': 'privacy',
     'PRESS': 'press',
     'BLOG': 'blog',

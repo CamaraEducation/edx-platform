@@ -60,7 +60,7 @@ import pytz
       <div class="wrap">
          <h3 class="hd hd-3">${_("Course Price")}</h3>
          <div>
-            <span class="tip">${_("Course price per seat: ")}<span>${section_data['currency_symbol']}${section_data['course_price']}</span>
+            <span class="tip">${_("Course price per seat: ")}<span>${section_data['currency_symbol']} ${section_data['course_price']}</span>
             %if section_data['access']['finance_admin'] is True:
             <a id="course_price_link" href="#set-course-mode-price-modal" rel="leanModal" class="add blue-button">+ ${_('Edit Price')}</a>
             %endif
@@ -74,7 +74,7 @@ import pytz
          <h3 class="hd hd-3">${_("Course Seat Purchases")}</h3>
          <div>
             %if section_data['total_amount'] is not None:
-              <span><strong>${_("Total Credit Card Purchases: ")}</strong></span><span>${section_data['currency_symbol']}${section_data['total_amount']}</span>
+              <span><strong>${_("Total Credit Card Purchases: ")}</strong></span><span>${section_data['currency_symbol']} ${section_data['total_amount']}</span>
             %endif
             <span class="csv_tip">
               <div>
